@@ -1,0 +1,10 @@
+{
+  "name": "samplebower2",
+  "homepage": "https://github.com/dchenk/samplebower2",
+  "authors": [
+    "Dmitriy Cherchenko <dcherchenko@gmail.com>"
+  ],
+  "description": "Abcd.",
+  "main": "index.js",
+  "license": "GPL-2.0"
+}
